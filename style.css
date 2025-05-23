@@ -100,6 +100,7 @@ header {
 
 .hero__text {
     color: var(--color-primary);
+    margin-bottom: 0.5em;
 }
 
 .hero__image {
@@ -234,8 +235,7 @@ footer{
     letter-spacing: 0.03em;
     background-color: var(--color-btn);
     border: 1px solid var(--color-primary);
-    border-radius: 0.3em;
-    margin-top: 0.5em;
+    border-radius: 0.3em;    
     padding: 0.1em 1em;
     cursor: pointer;
     transition: all 0.2s ease;
